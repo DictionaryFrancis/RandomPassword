@@ -2,9 +2,9 @@
 🍜 <-- Would you like a noodles?! haha
 Follow the idea...
 <h1>This coding was developer in HTML,CSS and JS</h1>
-The main idea behind it, is using my experience that I have been studying recently and apply on this app. Experiences such as:
-- Organise coding in HTML
-- Organise coding in CSS
+The main idea behind it, is using my experience that I have been studying recently and apply on this app. Experiences such as:<br>
+- Organise coding in HTML<br>
+- Organise coding in CSS<br>
 - Using JavaScript which I am studying these days
 
             📖
