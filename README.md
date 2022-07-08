@@ -8,11 +8,11 @@ The main idea behind it, is using my experience that I have been studying recent
 - Using JavaScript which I am studying these days
 
             📖
-//-------Definition-------//
-The project creates random passwords, giving a leght of 10 characteres and providing secure passwords!
+//-------Definition-------//<br>
+The project creates random passwords, giving a leght of 10 characteres and providing secure passwords!<br>
 Simple and easy to use!
 
-You can use it now, If you are trying to discover a new password to avoid some Hacker behind the scripts. 👀
-Enjoy it! 🏌
+You can use it now, If you are trying to discover a new password to avoid some Hacker behind the scripts. 👀<br>
+Enjoy it! 🏌<br>
 See you soon 👋
 
